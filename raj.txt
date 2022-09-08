@@ -3,4 +3,8 @@ wants to become davops engineer
 It's very popular
 git is popular version control system
 today is demo of commit
+<<<<<<< HEAD
 resolved conflicts
+=======
+it's very tough to learn
+>>>>>>> 8b1b8926a4fb66bbfca00160e471701aaf8aed08
