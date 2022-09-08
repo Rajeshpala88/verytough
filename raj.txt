@@ -3,3 +3,4 @@ wants to become davops engineer
 It's very popular
 git is popular version control system
 today is demo of commit
+resolved conflicts
